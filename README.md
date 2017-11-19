@@ -2,7 +2,7 @@
 Some simple automata simulations in Go
 
 ## files
-`go run elementary.go <integer>` prints the elementary automata with rule <integer> (up to 255).
+`go run elementary.go <integer>` prints the elementary automata with rule `integer` (up to 255).
   
 `go run forest.go` runs a forest fire automata.
 
