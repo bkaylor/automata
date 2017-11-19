@@ -1,5 +1,5 @@
 # automata
-Some simple automata simulations in Go
+Some simple automata simulations in Go- I wrote these while trying to learn the language.
 
 ## files
 `go run elementary.go <integer>` prints the elementary automata with rule `integer` (up to 255).
